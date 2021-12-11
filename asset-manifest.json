@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ra-hw-10.2-filter-with-toolkit/static/css/main.d41ef2bd.chunk.css",
+    "main.js": "/ra-hw-10.2-filter-with-toolkit/static/js/main.dd1ae6c7.chunk.js",
+    "main.js.map": "/ra-hw-10.2-filter-with-toolkit/static/js/main.dd1ae6c7.chunk.js.map",
+    "runtime-main.js": "/ra-hw-10.2-filter-with-toolkit/static/js/runtime-main.dd90e0dd.js",
+    "runtime-main.js.map": "/ra-hw-10.2-filter-with-toolkit/static/js/runtime-main.dd90e0dd.js.map",
+    "static/js/2.36bc41c0.chunk.js": "/ra-hw-10.2-filter-with-toolkit/static/js/2.36bc41c0.chunk.js",
+    "static/js/2.36bc41c0.chunk.js.map": "/ra-hw-10.2-filter-with-toolkit/static/js/2.36bc41c0.chunk.js.map",
+    "index.html": "/ra-hw-10.2-filter-with-toolkit/index.html",
+    "static/css/main.d41ef2bd.chunk.css.map": "/ra-hw-10.2-filter-with-toolkit/static/css/main.d41ef2bd.chunk.css.map",
+    "static/js/2.36bc41c0.chunk.js.LICENSE.txt": "/ra-hw-10.2-filter-with-toolkit/static/js/2.36bc41c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd90e0dd.js",
+    "static/js/2.36bc41c0.chunk.js",
+    "static/css/main.d41ef2bd.chunk.css",
+    "static/js/main.dd1ae6c7.chunk.js"
+  ]
+}
